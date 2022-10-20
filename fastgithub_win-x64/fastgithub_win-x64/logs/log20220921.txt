@@ -1,0 +1,652 @@
+2022-09-21T00:00:09.6522916+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+nexusrules.officeapps.live.com->127.0.0.1
+
+2022-09-21T00:00:10.4767868+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.21, 52.108.195.11]
+
+2022-09-21T00:00:11.5256700+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://nexusrules.officeapps.live.com/nexus/rules responded 304 in 1849.319 ms
+
+2022-09-21T00:00:15.5434206+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241, 20.98.236.80]
+
+2022-09-21T00:00:20.7598260+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.22, 140.82.114.21, 140.82.113.22]
+
+2022-09-21T00:00:21.4167290+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.2, 13.104.158.177, 40.90.133.97]
+
+2022-09-21T00:00:32.1005740+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/docs/recent responded 200 in 866.4696 ms
+
+2022-09-21T00:00:32.1225841+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/locations/recent responded 200 in 888.4759 ms
+
+2022-09-21T00:00:49.4039582+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 5758.3285 ms
+
+2022-09-21T00:00:50.7980309+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 1388.5939 ms
+
+2022-09-21T00:00:56.2130281+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.42.12, 13.107.43.12]
+
+2022-09-21T00:01:06.9735252+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.111.133, 185.199.109.133, 185.199.108.133]
+
+2022-09-21T00:01:09.0039824+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.111.133, 185.199.109.133]
+
+2022-09-21T00:01:32.1220714+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://nexusrules.officeapps.live.com/nexus/rules responded 304 in 1189.9337 ms
+
+2022-09-21T00:01:37.2679924+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.112.26, 140.82.114.26]
+
+2022-09-21T00:01:59.2897508+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.11, 52.108.0.119]
+
+2022-09-21T00:02:03.6197589+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.2, 13.104.158.177, 40.90.133.100]
+
+2022-09-21T00:02:21.4647259+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.76.225]
+
+2022-09-21T00:02:23.8110540+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/locations/recent responded 200 in 1124.4513 ms
+
+2022-09-21T00:02:24.1090002+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/docs/recent responded 200 in 1422.4133 ms
+
+2022-09-21T00:02:30.2683924+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[20.224.254.73, 20.224.151.203, 52.109.77.1]
+
+2022-09-21T00:02:45.2902303+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 1093.4924 ms
+
+2022-09-21T00:02:45.6180381+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 323.2153 ms
+
+2022-09-21T00:02:56.8065455+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[20.224.254.73, 52.109.77.1, 20.224.151.203]
+
+2022-09-21T00:03:04.1191976+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.112.22, 140.82.112.21]
+
+2022-09-21T00:03:09.7004817+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.2, 40.90.133.100, 20.135.6.5]
+
+2022-09-21T00:03:15.4698206+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.27.177.113, 192.30.255.112]
+
+2022-09-21T00:03:25.2166214+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.13.9, 20.190.141.38, 40.126.35.128]
+
+2022-09-21T00:03:25.5675716+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.128, 20.190.163.18, 40.126.16.165]
+
+2022-09-21T00:03:56.9818697+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.2, 20.135.6.5, 40.90.128.21]
+
+2022-09-21T00:03:57.2903902+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.13.9, 20.190.141.38, 40.126.16.165]
+
+2022-09-21T00:03:58.2136054+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.18, 40.126.16.165, 20.190.163.19]
+
+2022-09-21T00:04:04.9676424+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.121.5, 140.82.121.6]
+
+2022-09-21T00:04:06.6852200+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+roaming.officeapps.live.com->127.0.0.1
+
+2022-09-21T00:04:07.6256788+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 933.6905 ms
+
+2022-09-21T00:04:10.4321551+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.27.177.113, 20.205.243.166, 20.248.137.48]
+
+2022-09-21T00:04:15.4487179+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.110.153, 185.199.111.153, 185.199.109.153]
+
+2022-09-21T00:04:16.6710401+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.109.154, 185.199.108.154]
+
+2022-09-21T00:04:20.7231596+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.141.36, 40.126.16.165, 20.190.163.19]
+
+2022-09-21T00:04:25.6204818+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.28.107]
+
+2022-09-21T00:04:29.0337393+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.112.26, 140.82.113.26]
+
+2022-09-21T00:04:33.2958102+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.21, 52.108.195.11]
+
+2022-09-21T00:04:34.2741963+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.121.5, 140.82.114.6]
+
+2022-09-21T00:05:25.2589226+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:05:46.2973061+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:05:53.4064612+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:05:54.4645163+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.22, 140.82.114.22, 140.82.112.21]
+
+2022-09-21T00:06:09.9658607+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:06:31.5866117+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:06:34.1725358+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:06:37.0429289+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Unexpected end of stream
+
+2022-09-21T00:06:44.6878232+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:06:50.4979322+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:06:52.6006714+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:06:53.8156309+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.111.133]
+
+2022-09-21T00:07:07.5786270+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:07:36.7212430+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:07:37.7595079+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.11, 52.108.195.21]
+
+2022-09-21T00:07:41.8134734+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@8.8.8.8:53->Unexpected end of stream
+
+2022-09-21T00:08:02.8625744+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:08:04.9628484+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[140.82.121.5, 140.82.114.6, 140.82.121.6]
+
+2022-09-21T00:08:32.6273383+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:08:56.8157465+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:08:57.8349193+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.89.14]
+
+2022-09-21T00:09:12.1323866+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+roaming.officeapps.live.com->127.0.0.1
+
+2022-09-21T00:09:12.2801976+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+ocws.officeapps.live.com->127.0.0.1
+
+2022-09-21T00:09:13.0364628+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 861.413 ms
+
+2022-09-21T00:09:13.1225324+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/docs/recent responded 200 in 836.0675 ms
+
+2022-09-21T00:09:13.1876287+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/locations/recent responded 200 in 900.4114 ms
+
+2022-09-21T00:09:23.1473453+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@8.8.8.8:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:09:30.6244667+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 590.166 ms
+
+2022-09-21T00:09:30.9524864+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 321.3426 ms
+
+2022-09-21T00:09:44.1976873+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:09:48.7315478+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.113.26, 140.82.112.26]
+
+2022-09-21T00:09:52.3091218+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.88.85]
+
+2022-09-21T00:10:16.4759184+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:10:18.0877448+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.113.21, 140.82.114.21]
+
+2022-09-21T00:10:31.6418541+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:10:32.8425139+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[20.224.151.203, 52.109.77.1, 20.224.254.73]
+
+2022-09-21T00:10:38.6804153+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.128.21, 40.90.142.224, 40.90.142.226]
+
+2022-09-21T00:10:46.3450278+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:10:50.3993009+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.141.36, 20.190.141.38, 40.126.35.151]
+
+2022-09-21T00:10:54.7482026+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.18, 40.126.35.151, 40.126.35.64]
+
+2022-09-21T00:11:08.8208663+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:11:23.1994610+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:11:48.4179951+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:11:49.8815137+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241]
+
+2022-09-21T00:12:13.6756808+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:12:15.3361295+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-09-21T00:12:26.5909231+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:12:27.6720387+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.110.154, 185.199.108.154, 185.199.109.154]
+
+2022-09-21T00:12:32.5674944+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[20.205.34.189, 20.126.153.54, 20.223.144.60]
+
+2022-09-21T00:12:37.3243823+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.0.73]
+
+2022-09-21T00:12:40.0844963+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.21, 52.108.195.11]
+
+2022-09-21T00:12:43.6634546+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.52.16, 52.109.56.86]
+
+2022-09-21T00:12:46.5843780+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[140.82.114.6, 140.82.112.6, 140.82.121.5]
+
+2022-09-21T00:12:54.3896943+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:12:54.7224088+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[20.224.151.203, 20.224.254.73, 52.109.13.62]
+
+2022-09-21T00:12:56.6245374+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.248.137.48, 192.30.255.112]
+
+2022-09-21T00:13:06.9591307+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.113.21, 140.82.113.22]
+
+2022-09-21T00:13:17.8108941+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.128.21, 40.90.142.226, 40.90.133.100]
+
+2022-09-21T00:13:18.9171358+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:13:22.2765185+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.18, 40.126.35.151, 40.126.35.86]
+
+2022-09-21T00:13:24.2097169+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.151, 40.126.35.86, 20.190.144.161]
+
+2022-09-21T00:13:42.0726720+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:14:08.2136182+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:14:29.2820468+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:14:50.8773002+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:14:54.6677050+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@8.8.8.8:53->Unexpected end of stream
+
+2022-09-21T00:14:57.7979315+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 192.30.255.112, 140.82.112.3]
+
+2022-09-21T00:15:07.5956750+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.113.26, 140.82.112.25]
+
+2022-09-21T00:15:10.4249916+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.52.16, 52.109.68.101]
+
+2022-09-21T00:15:12.9200730+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.121.5, 140.82.121.6]
+
+2022-09-21T00:15:20.4545519+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.113.22, 140.82.112.22]
+
+2022-09-21T00:15:24.7812595+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.128.21, 13.105.28.32, 40.90.142.226]
+
+2022-09-21T00:15:26.9130490+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:15:45.5294826+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+storage.live.com->127.0.0.1
+
+2022-09-21T00:15:50.7075739+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+login.live.com->127.0.0.1
+
+2022-09-21T00:15:51.4314350+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:15:54.8907941+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://login.live.com/RST2.srf responded 200 in 4160.6154 ms
+
+2022-09-21T00:15:56.8617845+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://login.live.com/RST2.srf responded 200 in 4672.5811 ms
+
+2022-09-21T00:16:00.0464419+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.98.236.80, 20.223.237.241]
+
+2022-09-21T00:16:07.7122508+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[20.123.141.233, 52.109.13.62, 52.109.8.45]
+
+2022-09-21T00:16:29.2135892+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:16:30.0721702+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.52.16, 52.109.28.20]
+
+2022-09-21T00:16:40.8874894+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:16:42.0955454+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.26, 140.82.112.26, 140.82.113.26]
+
+2022-09-21T00:17:09.9469936+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:17:11.0223119+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.2, 13.104.158.180, 40.90.130.197]
+
+2022-09-21T00:17:27.5929818+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:17:30.9294394+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.151, 40.126.16.163, 40.126.35.86]
+
+2022-09-21T00:17:32.9228771+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.151, 20.190.144.163, 20.190.163.18]
+
+2022-09-21T00:17:43.1789338+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:18:01.4708627+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.114.6, 140.82.121.5]
+
+2022-09-21T00:18:04.3194468+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241, 20.98.236.80]
+
+2022-09-21T00:18:05.5345757+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.110.133]
+
+2022-09-21T00:18:07.5551893+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.111.153, 185.199.108.153, 185.199.110.153]
+
+2022-09-21T00:18:15.2606816+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.109.154, 185.199.110.154, 185.199.111.154]
+
+2022-09-21T00:18:21.0482370+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[20.205.34.189, 20.24.147.30, 20.223.144.60]
+
+2022-09-21T00:18:27.0325275+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.22, 140.82.112.22, 140.82.114.21]
+
+2022-09-21T00:18:32.8012774+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.11, 52.108.234.34]
+
+2022-09-21T00:18:41.5297282+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:18:43.7100512+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.77.1, 20.123.141.233, 52.109.8.45]
+
+2022-09-21T00:18:48.3690556+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+roaming.officeapps.live.com->127.0.0.1
+
+2022-09-21T00:18:48.5201390+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+ocws.officeapps.live.com->127.0.0.1
+
+2022-09-21T00:18:51.1165632+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 2704.4353 ms
+
+2022-09-21T00:18:52.0410214+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/locations/recent responded 200 in 3509.9045 ms
+
+2022-09-21T00:18:52.1419041+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://ocws.officeapps.live.com/ocs/docs/recent responded 200 in 3614.362 ms
+
+2022-09-21T00:18:57.5484030+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.151, 20.190.144.163, 40.126.35.64]
+
+2022-09-21T00:19:05.1563288+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 631.9628 ms
+
+2022-09-21T00:19:05.6030399+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://roaming.officeapps.live.com/rs/RoamingSoapService.svc responded 200 in 440.6005 ms
+
+2022-09-21T00:19:18.6052018+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:19:18.9086710+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.151, 40.126.35.64, 40.126.16.163]
+
+2022-09-21T00:19:27.9490799+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://login.live.com/RST2.srf responded 200 in 2571.0673 ms
+
+2022-09-21T00:19:43.8259036+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:20:06.5522044+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-09-21T00:20:07.6952381+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.43.12, 13.107.42.12]
+
+2022-09-21T00:20:14.1320389+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.52.16, 52.109.56.86]
+
+2022-09-21T00:20:24.9579641+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:20:38.1207391+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:20:47.0682130+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.112.3, 140.82.121.4]
+
+2022-09-21T00:20:49.4449306+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-09-21T00:20:50.4739846+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.22, 140.82.113.22, 140.82.114.21]
+

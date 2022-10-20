@@ -1,0 +1,110 @@
+[
+  {
+    "host": "dev.ditu.live.com",
+    "port": 443
+  },
+  {
+    "host": "mrodevicemgr.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "raw.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "roaming.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "bn1303.storage.live.com",
+    "port": 443
+  },
+  {
+    "host": "github.githubassets.com",
+    "port": 443
+  },
+  {
+    "host": "avatars.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 443
+  },
+  {
+    "host": "waconatm.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 22
+  },
+  {
+    "host": "api.github.com",
+    "port": 443
+  },
+  {
+    "host": "git-for-windows.github.io",
+    "port": 80
+  },
+  {
+    "host": "login.microsoftonline.com",
+    "port": 443
+  },
+  {
+    "host": "desktop.github.com",
+    "port": 443
+  },
+  {
+    "host": "login.live.com",
+    "port": 443
+  },
+  {
+    "host": "repository-images.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "collector.github.com",
+    "port": 443
+  },
+  {
+    "host": "storage.live.com",
+    "port": 443
+  },
+  {
+    "host": "alive.github.com",
+    "port": 443
+  },
+  {
+    "host": "odc.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "bingciservice.koreasouth.cloudapp.azure.com",
+    "port": 443
+  },
+  {
+    "host": "user-images.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "git-for-windows.github.io",
+    "port": 443
+  },
+  {
+    "host": "g.live.com",
+    "port": 443
+  },
+  {
+    "host": "nexusrules.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "msysgit.github.io",
+    "port": 80
+  },
+  {
+    "host": "ocws.officeapps.live.com",
+    "port": 443
+  }
+]

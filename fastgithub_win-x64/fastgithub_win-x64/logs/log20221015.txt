@@ -1,0 +1,4272 @@
+2022-10-15T00:00:03.7572108+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 40.90.133.100, 40.90.130.192]
+
+2022-10-15T00:00:07.3267144+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.144.164, 40.126.35.128, 40.126.38.67]
+
+2022-10-15T00:00:13.6038957+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:00:19.3621941+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.166.4, 40.126.35.128, 40.126.38.69]
+
+2022-10-15T00:00:25.6487954+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:00:39.8339797+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:00:40.6872938+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.43.12, 13.107.42.12]
+
+2022-10-15T00:00:44.0035326+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:00:45.0707036+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.80.190.220, 20.223.237.241]
+
+2022-10-15T00:00:58.3002826+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:01:19.1757517+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:01:30.1811367+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:01:30.3969936+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.110.154, 185.199.109.154, 185.199.111.154]
+
+2022-10-15T00:01:42.3513465+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:01:56.2803187+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:02:08.4621593+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:02:20.4426284+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:02:34.0881169+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:02:35.1320356+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.21, 52.108.195.11]
+
+2022-10-15T00:02:45.2680656+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:02:46.3438822+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.112.4, 140.82.121.3]
+
+2022-10-15T00:02:54.4669329+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:02:59.3988813+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:03:00.4753077+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.114.25, 140.82.112.25]
+
+2022-10-15T00:03:12.6872874+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:03:13.7309269+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.13.64, 20.123.141.233]
+
+2022-10-15T00:03:21.3125041+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:03:22.3582608+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.52.82, 52.109.56.91, 52.109.2.142]
+
+2022-10-15T00:03:33.8106349+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:03:34.9343102+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 40.90.133.100, 40.90.130.204]
+
+2022-10-15T00:03:42.9190460+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:03:46.2723422+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.166.4, 20.190.163.19, 40.126.35.128]
+
+2022-10-15T00:03:59.6864902+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:04:00.7909084+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.128, 40.126.35.144, 20.190.144.164]
+
+2022-10-15T00:04:04.3976001+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:04:16.2023590+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:04:32.5034952+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:04:33.2310151+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.88.33]
+
+2022-10-15T00:04:34.2174817+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-10-15T00:04:36.1127526+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:04:39.1400902+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-10-15T00:04:45.3049495+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.112.4, 140.82.114.4]
+
+2022-10-15T00:04:53.2301007+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:04:54.3261751+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.121.5]
+
+2022-10-15T00:04:55.3422211+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T00:04:59.4958377+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:05:00.4161045+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.109.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T00:05:00.9183432+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-10-15T00:05:07.6092190+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:05:07.6107663+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-10-15T00:05:08.3967338+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:05:08.3983279+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.109.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T00:05:10.2758835+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:05:11.6344498+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T00:05:21.8239219+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:05:22.8889397+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.8.43]
+
+2022-10-15T00:05:25.1077112+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:05:27.8591946+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:05:28.9567778+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.21, 140.82.113.22, 140.82.112.22]
+
+2022-10-15T00:05:32.3568284+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.25, 140.82.114.26, 140.82.113.25]
+
+2022-10-15T00:05:41.9762711+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:05:43.0423620+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.52.82, 52.109.56.91]
+
+2022-10-15T00:05:57.8055460+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:06:03.5829236+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.8.45, 52.109.13.64]
+
+2022-10-15T00:06:10.0453275+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 20.135.6.2, 40.90.130.204]
+
+2022-10-15T00:06:21.0146780+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:06:22.0805166+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.19, 20.190.144.166, 40.126.35.128]
+
+2022-10-15T00:06:24.7551253+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:06:25.8347514+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.19, 20.190.144.166, 40.126.35.128]
+
+2022-10-15T00:06:31.1864594+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:06:34.1789937+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:06:42.0337346+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:06:46.5287104+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:06:52.3578882+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.108.154, 185.199.110.154]
+
+2022-10-15T00:07:03.5054591+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:04.2392795+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.114.4, 140.82.121.3]
+
+2022-10-15T00:07:10.2210393+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:10.9321009+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.114.4, 140.82.121.3]
+
+2022-10-15T00:07:14.6101393+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:17.7758027+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:19.5808190+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:20.6008172+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.113.22, 140.82.112.22]
+
+2022-10-15T00:07:24.4911164+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:34.9039707+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:42.7781001+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:46.7379053+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[20.223.237.241, 52.231.199.126, 20.80.190.220]
+
+2022-10-15T00:07:48.9529112+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:07:50.0311567+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.21, 52.108.195.11, 52.108.46.16]
+
+2022-10-15T00:07:51.8762936+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:07:54.9584207+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:07:55.7353073+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.26, 140.82.113.25, 140.82.112.26]
+
+2022-10-15T00:08:05.3182461+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:08:06.2041562+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.44.30, 52.109.124.155, 52.109.52.82]
+
+2022-10-15T00:08:11.1747415+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:08:12.2147300+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.2, 40.90.130.204, 40.79.207.80]
+
+2022-10-15T00:08:14.2389579+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:08:28.1211341+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:08:41.5494008+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:08:47.9509034+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.76.0]
+
+2022-10-15T00:08:51.7217803+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.114.4, 140.82.113.3]
+
+2022-10-15T00:08:53.9752743+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:08:55.0638447+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.114.4, 140.82.113.3]
+
+2022-10-15T00:09:06.5873787+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:09:27.1047232+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:09:34.1265738+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:09:39.4726106+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:09:43.0935019+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:09:43.3027933+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.110.133]
+
+2022-10-15T00:09:46.9195353+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:09:54.1056559+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:09:54.7985050+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.110.133]
+
+2022-10-15T00:10:05.6024004+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:10:05.8177749+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T00:10:16.9691844+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:10:18.1687201+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.108.153, 185.199.111.153, 185.199.109.153]
+
+2022-10-15T00:10:31.8534907+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:10:40.9917014+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:10:54.0199124+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:10:56.0748455+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.25, 140.82.112.26, 140.82.112.25]
+
+2022-10-15T00:11:03.7553265+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.44, 52.109.77.0]
+
+2022-10-15T00:11:09.2784565+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:11:10.4660252+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 20.135.6.2, 40.90.133.100]
+
+2022-10-15T00:11:12.8838319+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:11:13.2486025+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.144.166, 40.126.16.163, 20.190.144.165]
+
+2022-10-15T00:11:26.2433496+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:11:27.2761411+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.144.163, 20.190.163.18, 40.126.16.163]
+
+2022-10-15T00:11:31.1794501+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:11:44.2976344+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:11:45.1843349+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.42.12]
+
+2022-10-15T00:11:48.1494826+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[20.223.237.241, 52.231.199.126]
+
+2022-10-15T00:11:54.2010439+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:12:04.5317397+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:12:04.5339636+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.110.133]
+
+2022-10-15T00:12:09.3218156+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:12:10.6579683+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.110.133]
+
+2022-10-15T00:12:16.3826832+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.4, 140.82.113.3]
+
+2022-10-15T00:12:20.3527889+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.113.3, 140.82.121.3]
+
+2022-10-15T00:12:22.6037981+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:12:23.6464167+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.121.6]
+
+2022-10-15T00:12:25.1047122+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.108.153, 185.199.111.153, 185.199.109.153]
+
+2022-10-15T00:12:26.1128266+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:12:26.1147415+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T00:12:38.2578892+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:12:39.3457783+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.114.21, 140.82.112.22]
+
+2022-10-15T00:12:52.3432894+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:13:03.8253066+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:13:18.1754613+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:13:28.9454129+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.13.63, 52.109.8.44]
+
+2022-10-15T00:13:41.7266779+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:13:54.5919975+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:14:01.8155059+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.52.82]
+
+2022-10-15T00:14:05.0215114+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.1.4, 20.135.6.5, 20.135.6.2]
+
+2022-10-15T00:14:11.3605833+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.144.163, 20.190.163.18, 40.126.16.163]
+
+2022-10-15T00:14:20.2468735+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:14:36.3908632+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:14:46.8421701+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:14:47.9116607+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241, 20.98.236.80]
+
+2022-10-15T00:14:49.7206995+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:14:50.8678557+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.2.61]
+
+2022-10-15T00:14:58.3787921+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:14:58.5956800+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:15:00.9218976+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:15:01.9671577+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:15:02.6676065+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:15:07.8791430+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:15:10.8947336+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:15:11.8224689+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.109.153, 185.199.111.153, 185.199.108.153]
+
+2022-10-15T00:15:13.0816839+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:15:14.6373547+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:15:25.0430804+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:15:25.0445409+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.109.153, 185.199.111.153, 185.199.108.153]
+
+2022-10-15T00:15:26.6441490+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T00:15:34.7082450+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:15:35.7479793+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.68.101]
+
+2022-10-15T00:15:46.0272419+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:15:47.0880672+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.28.107]
+
+2022-10-15T00:15:55.3625134+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:15:56.4792691+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.248.137.48, 140.82.113.3]
+
+2022-10-15T00:16:02.5270383+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 20.248.137.48, 140.82.113.3]
+
+2022-10-15T00:16:06.0320418+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.112.25, 140.82.113.26]
+
+2022-10-15T00:16:13.3563180+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:16:14.3761906+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.112.22, 140.82.114.21]
+
+2022-10-15T00:16:17.2252220+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.52.82, 52.109.124.155, 52.109.44.30]
+
+2022-10-15T00:16:24.5311221+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:16:35.9458154+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:16:36.9951327+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.1.4, 20.135.6.5, 20.135.1.0]
+
+2022-10-15T00:16:42.2604539+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:16:43.4091029+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.144.164, 20.190.163.18, 40.126.35.80]
+
+2022-10-15T00:16:51.8915455+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:16:52.9619299+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.13.8, 20.190.141.37, 20.190.144.164]
+
+2022-10-15T00:17:06.2107467+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:17:09.1035571+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:17:14.1046115+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:17:18.0834474+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.28.20]
+
+2022-10-15T00:17:33.7324970+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:17:37.9184731+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+g.live.com->127.0.0.1
+
+2022-10-15T00:17:38.9453269+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+HEAD https://g.live.com/1rewlive5skydrive/OneDriveProductionV2 responded 302 in 815.6395 ms
+
+2022-10-15T00:17:39.1346230+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+HEAD https://g.live.com/odclientsettings/ProdV2 responded 302 in 783.547 ms
+
+2022-10-15T00:17:40.7960206+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://g.live.com/1rewlive5skydrive/OneDriveProductionV2 responded 302 in 197.6626 ms
+
+2022-10-15T00:17:41.7718070+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://g.live.com/odclientsettings/ProdV2 responded 302 in 209.4271 ms
+
+2022-10-15T00:17:43.5297550+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:17:43.7616737+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.108.154, 185.199.109.154, 185.199.111.154]
+
+2022-10-15T00:17:48.0828616+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:17:57.6898355+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:17:58.7117691+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.121.5]
+
+2022-10-15T00:17:59.2999059+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T00:18:10.1186351+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:18:21.1912439+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:18:24.0090109+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:18:25.0679402+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.76.225]
+
+2022-10-15T00:18:31.2180395+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.46.16, 52.108.234.34]
+
+2022-10-15T00:18:37.4649684+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:18:44.4103829+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:18:45.4542091+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.113.21, 140.82.113.22]
+
+2022-10-15T00:18:49.2713749+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:18:53.9544280+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:18:55.1000104+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 20.224.151.203, 52.109.77.2]
+
+2022-10-15T00:18:56.1531741+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:18:57.1460087+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 40.90.133.102, 20.135.1.0]
+
+2022-10-15T00:18:58.1683038+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:07.9463473+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:12.5149852+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:15.2560334+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:19:18.5900466+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:23.3063970+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:26.6144209+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:31.1106360+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:38.3837814+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:50.3266539+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:57.3668311+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:19:58.3729026+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.248.137.48, 140.82.121.4]
+
+2022-10-15T00:20:09.4226239+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:20:10.4534702+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 20.248.137.48, 140.82.112.4]
+
+2022-10-15T00:20:16.6575998+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:20:23.6749323+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:20:27.8657505+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:20:36.2549816+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:20:40.0191091+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 20.135.1.0, 40.90.133.102]
+
+2022-10-15T00:20:42.4958559+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:20:53.8291269+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:21:07.8050209+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:21:20.3116647+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:21:32.6954068+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:21:33.5491268+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.109.133, 185.199.108.133, 185.199.111.133]
+
+2022-10-15T00:21:38.3885290+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:21:39.6806569+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.109.133, 185.199.108.133, 185.199.111.133]
+
+2022-10-15T00:21:41.6203476+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:21:42.6371762+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.21, 52.108.195.11, 52.108.46.16]
+
+2022-10-15T00:21:57.4033829+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:21:58.3263406+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.108.153, 185.199.110.153, 185.199.111.153]
+
+2022-10-15T00:22:10.1045876+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:22:10.3615679+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.109.153, 185.199.111.153, 185.199.110.153]
+
+2022-10-15T00:22:11.0278062+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.109.133, 185.199.108.133, 185.199.111.133]
+
+2022-10-15T00:22:12.4219813+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.109.133, 185.199.108.133, 185.199.111.133]
+
+2022-10-15T00:22:12.7416146+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:22:12.7432045+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.109.153, 185.199.111.153, 185.199.110.153]
+
+2022-10-15T00:22:13.3746222+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.108.153, 185.199.110.153, 185.199.111.153]
+
+2022-10-15T00:22:26.9586733+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:22:35.4439344+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:22:36.4944696+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.8.84]
+
+2022-10-15T00:22:50.5190135+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:23:01.5601147+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:23:11.7185736+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:23:14.4606967+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.8.45, 52.109.77.2]
+
+2022-10-15T00:23:20.2280327+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:23:21.2850020+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.114.25, 140.82.114.26]
+
+2022-10-15T00:23:31.8169797+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:23:32.8637058+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.52.82, 52.109.44.30]
+
+2022-10-15T00:23:36.2636815+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.79.207.82, 20.135.1.0, 40.90.133.102]
+
+2022-10-15T00:23:41.0489785+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:23:45.0554026+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.141.35, 20.190.141.33, 20.190.141.36]
+
+2022-10-15T00:23:48.3638989+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:23:53.3830283+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.80, 20.190.144.160, 40.126.16.165]
+
+2022-10-15T00:23:57.9900450+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.43.12, 13.107.42.12]
+
+2022-10-15T00:24:07.1911772+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:24:18.3670044+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:24:26.1617228+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:24:26.3884648+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.109.154, 185.199.108.154]
+
+2022-10-15T00:24:30.9534375+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.114.5]
+
+2022-10-15T00:24:42.2927982+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:24:56.1655921+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:25:11.3679077+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:25:31.2389012+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:25:32.2486930+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.112.161]
+
+2022-10-15T00:25:45.4842701+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:25:52.1571480+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:25:53.2359931+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.248.137.48, 140.82.112.4]
+
+2022-10-15T00:25:55.3469539+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:25:56.4076604+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.21, 52.108.46.16, 52.108.80.18]
+
+2022-10-15T00:26:02.3961865+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:26:03.4640017+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 20.248.137.48, 140.82.113.4]
+
+2022-10-15T00:26:05.8496079+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:26:06.8457909+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.22, 140.82.112.21, 140.82.113.21]
+
+2022-10-15T00:26:11.7279166+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:26:16.6238295+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.8.86, 52.109.8.45]
+
+2022-10-15T00:26:17.9390196+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:26:19.0671058+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.8.22]
+
+2022-10-15T00:26:25.2023052+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:26:26.2407107+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.79.207.82, 40.90.130.192, 40.90.133.105]
+
+2022-10-15T00:26:34.6524505+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:26:35.7180955+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 20.190.144.160, 40.126.35.128]
+
+2022-10-15T00:26:46.9284171+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:26:55.0000435+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:27:06.4853002+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:27:17.9947098+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:27:19.0576476+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241]
+
+2022-10-15T00:27:21.5276876+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.8.35]
+
+2022-10-15T00:27:22.1383692+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:27:28.9936676+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:27:30.5668118+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:27:33.8864570+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.114.5, 140.82.121.5]
+
+2022-10-15T00:27:45.2689734+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:27:46.1594123+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.110.153, 185.199.111.153, 185.199.109.153]
+
+2022-10-15T00:27:54.1277313+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:27:55.0365006+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.109.153, 185.199.108.153, 185.199.110.153]
+
+2022-10-15T00:27:56.3377464+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:27:57.8576303+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:28:08.2431920+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:28:09.0066742+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.109.153, 185.199.108.153, 185.199.110.153]
+
+2022-10-15T00:28:18.6669927+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:28:18.6691568+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.110.153, 185.199.111.153, 185.199.109.153]
+
+2022-10-15T00:28:29.0459010+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:28:33.6467260+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.114.3, 140.82.112.4]
+
+2022-10-15T00:28:35.7764393+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:28:37.6438946+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[140.82.113.4, 140.82.112.4, 140.82.114.3]
+
+2022-10-15T00:28:39.5218817+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:28:40.7470838+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.113.21, 140.82.114.21]
+
+2022-10-15T00:28:53.0931121+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:28:54.3034410+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.112.26, 140.82.113.26]
+
+2022-10-15T00:29:06.9401311+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:29:08.0220386+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.56.91]
+
+2022-10-15T00:29:13.6371396+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.44, 52.109.8.86]
+
+2022-10-15T00:29:24.7872524+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:29:25.8392006+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.192, 40.90.133.105, 20.135.6.5]
+
+2022-10-15T00:29:30.3596328+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 40.126.35.151, 40.126.35.128]
+
+2022-10-15T00:29:33.1201525+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.20, 40.126.35.151, 40.126.35.80]
+
+2022-10-15T00:29:48.9303908+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:29:49.7994428+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.42.12, 13.107.43.12]
+
+2022-10-15T00:29:51.8522904+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:30:05.1207826+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:30:12.5977270+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.8.35, 52.109.76.0, 52.109.88.33]
+
+2022-10-15T00:30:16.9616782+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:30:20.7146197+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:30:21.6305514+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.109.154, 185.199.110.154, 185.199.111.154]
+
+2022-10-15T00:30:28.8926362+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:30:33.1335606+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.112.5, 140.82.121.6]
+
+2022-10-15T00:30:44.2342832+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:30:53.3878622+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:31:05.5919647+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:31:16.5761171+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:31:22.5547365+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[140.82.114.3, 140.82.121.4, 140.82.112.4]
+
+2022-10-15T00:31:24.4839304+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:31:25.5624594+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.114.21, 140.82.113.22]
+
+2022-10-15T00:31:38.4067737+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:31:42.1891196+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.86, 52.109.8.45, 52.109.8.44]
+
+2022-10-15T00:31:45.4171520+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:31:46.4619102+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.79.207.80, 40.90.130.192, 20.135.6.5]
+
+2022-10-15T00:31:48.2344294+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.20, 40.126.35.151, 40.126.35.86]
+
+2022-10-15T00:31:50.7552374+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 40.126.35.151, 40.126.35.86]
+
+2022-10-15T00:31:57.8764833+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:32:11.8104418+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:32:21.7283927+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:32:30.6718455+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:32:40.7546193+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:32:48.4592701+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.21, 52.108.80.18]
+
+2022-10-15T00:33:08.1489228+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:33:09.3700320+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.108.153, 185.199.111.153, 185.199.110.153]
+
+2022-10-15T00:33:25.4319429+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:33:25.4335909+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.108.153, 185.199.111.153, 185.199.110.153]
+
+2022-10-15T00:33:34.7951114+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:33:50.2969138+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:33:51.4650110+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.112.4, 140.82.121.3]
+
+2022-10-15T00:33:57.8290193+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:33:58.8296732+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.114.3, 140.82.121.3]
+
+2022-10-15T00:34:01.1918638+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:34:02.2212959+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.114.21, 140.82.112.22]
+
+2022-10-15T00:34:15.3374814+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:34:16.6099432+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.112.25, 140.82.113.26]
+
+2022-10-15T00:34:25.2846026+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:34:31.9742051+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:34:34.6860866+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.86, 52.109.8.45, 52.109.77.2]
+
+2022-10-15T00:34:37.1010882+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:34:38.2070370+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 40.79.207.80, 40.90.130.192]
+
+2022-10-15T00:34:39.7303551+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:34:43.8069345+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.20, 40.126.35.86, 20.190.163.18]
+
+2022-10-15T00:34:49.8607628+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:34:50.9379764+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 40.126.35.86, 20.190.163.18]
+
+2022-10-15T00:34:53.8903595+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:35:11.3166944+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:35:23.4026533+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:35:36.3865659+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:35:37.5996267+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.110.154, 185.199.109.154, 185.199.108.154]
+
+2022-10-15T00:35:44.3556907+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:35:48.8906253+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:35:49.9628071+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.46.16, 52.108.195.21]
+
+2022-10-15T00:35:53.5139681+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 20.248.137.49, 140.82.112.5]
+
+2022-10-15T00:36:04.5139507+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:36:10.3990874+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:36:19.2802519+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.8.35]
+
+2022-10-15T00:36:26.5783935+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.113.4, 140.82.121.3]
+
+2022-10-15T00:36:37.2011470+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:36:48.6584246+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:36:49.6999671+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.113.21, 140.82.113.22]
+
+2022-10-15T00:36:56.3861209+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:36:57.4775444+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.28.20]
+
+2022-10-15T00:37:02.2263490+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:37:03.1489475+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.52.82]
+
+2022-10-15T00:37:07.7811239+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:37:14.5088680+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:37:15.4921259+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 40.90.130.197, 40.90.133.102]
+
+2022-10-15T00:37:23.1266977+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:37:24.2049355+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.20, 20.190.163.18, 20.190.163.21]
+
+2022-10-15T00:37:26.8221468+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:37:27.1677911+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 20.190.163.18, 20.190.163.21]
+
+2022-10-15T00:37:35.3147573+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:37:48.8029598+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:37:59.1916047+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:38:06.0081407+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:38:06.9397923+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.110.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:38:07.9443716+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:38:15.3677510+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:38:15.3692865+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:38:31.2321881+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:38:43.7394412+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:38:43.9685906+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.110.153, 185.199.108.153, 185.199.109.153]
+
+2022-10-15T00:38:44.7208384+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T00:38:46.5931208+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:38:47.3196007+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.110.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:38:48.7620732+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.110.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T00:38:49.4660816+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T00:38:50.8022989+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.110.153, 185.199.108.153, 185.199.109.153]
+
+2022-10-15T00:38:53.2393179+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.68.101]
+
+2022-10-15T00:39:03.1188616+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:39:11.5003434+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.195.21, 52.108.46.16]
+
+2022-10-15T00:39:24.6627088+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:39:25.3668555+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 20.248.137.49, 140.82.121.5]
+
+2022-10-15T00:39:36.1129489+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.114.25, 140.82.112.25]
+
+2022-10-15T00:39:49.5244452+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:39:50.6002548+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.86, 52.109.13.64]
+
+2022-10-15T00:39:54.3886865+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:40:04.1757686+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:40:05.2410654+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.197, 40.90.133.102, 20.135.2.0]
+
+2022-10-15T00:40:10.3171404+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:40:11.3889602+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.144.165, 40.126.35.128, 40.126.35.129]
+
+2022-10-15T00:40:13.7171869+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:40:14.9397633+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.144.163, 20.190.144.165, 40.126.35.128]
+
+2022-10-15T00:40:18.1964114+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:40:30.4921148+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+login.live.com->127.0.0.1
+
+2022-10-15T00:40:31.4215917+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://login.live.com/RST2.srf responded 200 in 904.857 ms
+
+2022-10-15T00:40:34.7643670+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:40:51.5175921+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:40:52.4083703+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:40:59.7574943+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:41:10.3203963+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:41:22.4272001+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:41:31.1329476+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:41:39.4448342+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:41:47.8248697+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:41:51.8628148+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.6.41]
+
+2022-10-15T00:41:57.0467787+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:41:59.0707211+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.3, 140.82.121.4]
+
+2022-10-15T00:42:00.5928751+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:42:01.6652433+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.121.3, 140.82.121.4]
+
+2022-10-15T00:42:14.0885625+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:42:25.9630768+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:42:29.7911457+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:42:30.8512698+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.22, 140.82.114.22, 140.82.112.21]
+
+2022-10-15T00:42:36.8002358+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:42:37.8583376+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.25, 140.82.113.25, 140.82.112.26]
+
+2022-10-15T00:42:43.8512915+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:42:44.8821389+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.44.30, 52.109.52.82, 52.109.56.91]
+
+2022-10-15T00:42:53.7272696+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:42:57.7103153+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:42:58.7753644+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.2.0, 40.90.130.194, 13.105.28.18]
+
+2022-10-15T00:43:03.0122380+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:43:08.6829183+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:43:26.9367914+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:43:31.1114268+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.42.12]
+
+2022-10-15T00:43:43.3889017+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:43:44.4522907+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241, 20.98.236.80]
+
+2022-10-15T00:43:55.6367729+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:43:56.6810568+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 20.248.137.49, 140.82.121.6]
+
+2022-10-15T00:44:04.1096595+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:04.3299953+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T00:44:06.4714479+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:12.5590815+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:13.2897785+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T00:44:16.2873058+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:17.3173634+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.112.4, 140.82.121.3]
+
+2022-10-15T00:44:27.4229016+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:28.4173714+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.112.4, 140.82.121.3]
+
+2022-10-15T00:44:33.3884522+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:33.6035166+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T00:44:36.2474294+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.108.153, 185.199.109.153, 185.199.110.153]
+
+2022-10-15T00:44:41.8279806+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:41.8295004+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T00:44:44.8912688+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:45.6294602+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T00:44:46.4613313+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.108.153, 185.199.109.153, 185.199.110.153]
+
+2022-10-15T00:44:51.9115323+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T00:44:57.4039712+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:44:58.1086446+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.88.33]
+
+2022-10-15T00:45:07.3153086+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:45:08.0504219+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.16.111]
+
+2022-10-15T00:45:12.1982922+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:45:13.2342479+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.112.25, 140.82.113.26]
+
+2022-10-15T00:45:16.4685006+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:45:17.6548758+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.44.30, 52.109.52.82, 52.109.124.155]
+
+2022-10-15T00:45:22.7975367+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:45:23.8454697+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.112.21, 140.82.112.22]
+
+2022-10-15T00:45:42.7630948+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:45:43.1103682+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.13.63, 52.109.8.44]
+
+2022-10-15T00:45:55.4470680+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:45:56.5139601+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.194, 40.90.133.97, 40.90.130.203]
+
+2022-10-15T00:45:58.3952522+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:45:58.7615642+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.18, 40.126.35.128, 40.126.16.163]
+
+2022-10-15T00:45:59.7164109+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:46:00.7951774+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.151, 20.190.163.18, 40.126.35.128]
+
+2022-10-15T00:46:16.9177954+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:46:22.4539858+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:46:24.5438045+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[140.82.121.6, 20.205.243.168, 140.82.114.6]
+
+2022-10-15T00:46:41.3198466+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:46:50.0136017+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:46:50.3547562+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.76.0]
+
+2022-10-15T00:47:00.2155367+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:06.1355896+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.110.154, 185.199.109.154]
+
+2022-10-15T00:47:07.8380561+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:15.7488740+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:18.0236347+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:19.0541761+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.112.4, 140.82.121.4]
+
+2022-10-15T00:47:30.3509136+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:41.3389397+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:42.5697137+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:51.6172758+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:47:58.1006151+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:48:00.9783362+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:48:02.0373643+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.112.22, 140.82.113.21]
+
+2022-10-15T00:48:08.6675762+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:48:17.5699194+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:48:21.6292812+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.52.82, 52.109.44.30, 52.109.124.155]
+
+2022-10-15T00:48:25.0788147+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.86, 52.109.8.44]
+
+2022-10-15T00:48:28.3439829+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.198, 40.90.130.194, 40.90.133.97]
+
+2022-10-15T00:48:31.7831975+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.151, 20.190.163.18, 40.126.35.128]
+
+2022-10-15T00:48:41.6344033+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:48:51.7299513+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:48:57.1192423+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:48:58.1861837+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.27.177.116, 140.82.121.6, 20.205.243.168]
+
+2022-10-15T00:49:02.7977171+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:49:03.8453089+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.98.236.80, 20.223.237.241]
+
+2022-10-15T00:49:05.7564407+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:49:07.4705148+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:49:08.3956011+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.111.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T00:49:17.6001753+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:49:18.6219241+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.68.99]
+
+2022-10-15T00:49:30.0753569+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+avatars.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:49:30.0773399+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.111.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T00:49:38.1050910+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:49:38.8501562+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.3, 140.82.121.4]
+
+2022-10-15T00:49:41.2684848+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.121.4, 140.82.121.3]
+
+2022-10-15T00:49:52.2838626+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:49:52.4999210+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.108.153, 185.199.111.153, 185.199.109.153]
+
+2022-10-15T00:49:57.4285938+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.111.153, 185.199.108.153, 185.199.109.153]
+
+2022-10-15T00:50:01.6097117+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:50:02.3219566+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.111.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T00:50:10.4680602+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:50:10.4701158+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.111.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T00:50:11.1694797+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.111.153, 185.199.108.153, 185.199.109.153]
+
+2022-10-15T00:50:22.1119741+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:50:22.8816690+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.108.153, 185.199.111.153, 185.199.109.153]
+
+2022-10-15T00:50:30.9404798+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:50:31.9625395+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.113.22, 140.82.113.21]
+
+2022-10-15T00:50:36.1848405+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.114.26, 140.82.112.25]
+
+2022-10-15T00:50:40.8395087+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:50:45.5583899+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.21, 52.108.195.11]
+
+2022-10-15T00:50:56.9538185+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:51:07.8343101+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:51:08.8834863+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.52.82, 52.109.124.155, 52.109.44.30]
+
+2022-10-15T00:51:21.8236767+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:51:22.8700396+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.198, 40.90.133.105, 40.79.207.80]
+
+2022-10-15T00:51:26.8748188+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 40.126.16.163, 40.126.16.167]
+
+2022-10-15T00:51:28.6324700+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.20, 40.126.16.163, 40.126.16.167]
+
+2022-10-15T00:51:43.3624560+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:51:49.4031860+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:51:50.3227310+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.27.177.113, 20.205.243.166, 140.82.121.3]
+
+2022-10-15T00:51:56.4695858+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:51:57.3732142+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.27.177.113, 20.205.243.166, 140.82.121.4]
+
+2022-10-15T00:52:06.9475178+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:52:07.8152766+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.98.236.80]
+
+2022-10-15T00:52:27.1153955+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:52:32.5738785+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:52:34.1404393+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.108.154, 185.199.110.154, 185.199.109.154]
+
+2022-10-15T00:52:47.5528844+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:52:48.5868065+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 20.27.177.116, 140.82.114.6]
+
+2022-10-15T00:52:59.4065712+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:53:02.6302947+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:53:14.6943755+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:53:15.7238068+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.113.25, 140.82.114.25]
+
+2022-10-15T00:53:28.0749119+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:53:34.7502784+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:53:35.8308367+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.16.111]
+
+2022-10-15T00:53:37.3371481+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.11, 52.108.80.18]
+
+2022-10-15T00:53:40.5454168+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.52.16, 52.109.124.112, 52.109.56.86]
+
+2022-10-15T00:53:44.2917297+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:53:45.3624560+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.112.21, 140.82.113.22]
+
+2022-10-15T00:53:55.5321442+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:53:56.5567965+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.56.91]
+
+2022-10-15T00:54:09.2164503+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:54:10.2640570+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.86, 20.123.141.233]
+
+2022-10-15T00:54:13.6260587+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.133.105, 40.79.207.80, 40.90.130.198]
+
+2022-10-15T00:54:19.0977887+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:54:23.1533366+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 40.126.35.86, 40.126.16.163]
+
+2022-10-15T00:54:34.1290573+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:54:38.2175879+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.20, 40.126.35.86, 40.126.16.163]
+
+2022-10-15T00:54:51.1902899+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:55:04.2863463+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:55:13.8949482+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:55:25.5754156+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:55:37.8919214+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:55:40.2219958+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:55:42.8047471+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:55:47.6583138+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:55:58.8634878+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:56:06.1326613+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:56:07.1566788+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.27.177.116, 20.205.243.168, 140.82.114.6]
+
+2022-10-15T00:56:23.3390169+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:56:24.5421520+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.109.153, 185.199.111.153, 185.199.108.153]
+
+2022-10-15T00:56:29.0127469+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:56:29.2333527+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.110.153, 185.199.109.153, 185.199.111.153]
+
+2022-10-15T00:56:33.6830808+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:56:33.6848364+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:56:39.0713383+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T00:56:49.4851058+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:56:49.4867837+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.110.153, 185.199.109.153, 185.199.111.153]
+
+2022-10-15T00:56:50.8379506+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T00:56:50.8398797+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.109.153, 185.199.111.153, 185.199.108.153]
+
+2022-10-15T00:56:57.4510530+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:56:58.4995836+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.22, 140.82.112.21, 140.82.113.21]
+
+2022-10-15T00:57:10.3686882+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:57:11.4280986+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.112.25, 140.82.114.26]
+
+2022-10-15T00:57:30.2816792+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:57:31.3320472+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.89.14]
+
+2022-10-15T00:57:40.6206654+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:57:50.7610637+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:57:54.1087460+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.86, 20.123.141.233, 52.109.77.1]
+
+2022-10-15T00:58:06.3550396+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:58:07.4266263+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.79.207.80, 40.90.130.198, 13.104.158.180]
+
+2022-10-15T00:58:11.9346900+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.86, 20.190.163.18, 20.190.144.164]
+
+2022-10-15T00:58:12.9623845+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:58:14.0299980+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.86, 20.190.163.19, 40.126.35.87]
+
+2022-10-15T00:58:27.6638420+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:58:33.1402473+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:58:35.9078989+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:58:36.9588968+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.98.236.80, 20.223.237.241]
+
+2022-10-15T00:58:48.5033167+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:58:49.5902964+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.46.16, 52.108.80.18]
+
+2022-10-15T00:58:57.6768957+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.124.63, 52.109.88.33, 52.109.76.0]
+
+2022-10-15T00:59:07.8873392+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:59:09.0818275+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.110.154, 185.199.111.154, 185.199.109.154]
+
+2022-10-15T00:59:12.8156384+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.27.177.113, 140.82.121.3]
+
+2022-10-15T00:59:19.3704826+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:59:20.4333078+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.114.6, 140.82.121.6]
+
+2022-10-15T00:59:32.8552859+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:59:48.7544788+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T00:59:54.4504175+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.44.68, 52.109.56.83]
+
+2022-10-15T01:00:01.6154795+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:00:05.4422749+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:00:14.5606604+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:00:26.0384137+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:00:36.6668935+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:00:37.7882794+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.198, 40.79.207.82, 40.79.207.80]
+
+2022-10-15T01:00:49.7912665+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:00:50.9023854+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.19, 40.126.35.86, 20.190.163.18]
+
+2022-10-15T01:00:54.1929315+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.19, 40.126.35.86, 40.126.35.87]
+
+2022-10-15T01:01:07.2847195+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:01:10.0200076+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:01:16.9597536+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.124.63, 52.109.88.33]
+
+2022-10-15T01:01:32.6368303+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:01:33.7176151+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 20.27.177.116, 140.82.114.6]
+
+2022-10-15T01:01:41.9191978+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:01:43.0033497+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241, 20.98.236.80]
+
+2022-10-15T01:01:44.4779016+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T01:01:49.5739594+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:01:50.0943161+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T01:01:53.3147954+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.27.177.113, 140.82.121.4]
+
+2022-10-15T01:01:57.8748204+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:01:58.6181683+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.46.16, 52.108.79.15]
+
+2022-10-15T01:02:01.3581935+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.121.4, 140.82.121.3]
+
+2022-10-15T01:02:03.2401511+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.110.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T01:02:09.3333031+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:02:09.5451902+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.110.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T01:02:10.8886448+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T01:02:21.7889106+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:02:22.8661493+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.112.22, 140.82.112.21]
+
+2022-10-15T01:02:28.1877738+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.108.133, 185.199.111.133, 185.199.109.133]
+
+2022-10-15T01:02:29.6441869+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.110.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T01:02:30.2975535+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.110.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T01:02:32.2102514+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:02:36.7680585+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:02:47.7852515+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:02:48.8374360+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.114.25, 140.82.113.26]
+
+2022-10-15T01:02:53.2734104+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:02:54.3594451+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.44.30, 52.109.124.155, 52.109.56.91]
+
+2022-10-15T01:02:57.5917352+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:02:58.6390371+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.86, 20.123.141.233, 20.224.151.203]
+
+2022-10-15T01:03:01.9460236+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.79.207.82, 40.79.207.80, 13.105.28.16]
+
+2022-10-15T01:03:09.6166975+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:03:09.9730173+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.19, 40.126.35.86, 20.190.141.37]
+
+2022-10-15T01:03:24.0711585+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:03:30.3927387+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:03:36.9207729+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.124.63, 52.109.88.33, 52.109.4.18]
+
+2022-10-15T01:03:46.4410724+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:03:47.3479950+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.195.21, 52.108.46.16]
+
+2022-10-15T01:03:51.6019496+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:03:58.7660865+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:04:03.3046696+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:04:12.5591495+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.4, 140.82.121.3]
+
+2022-10-15T01:04:24.3132773+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:04:25.3663438+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.27.177.116, 20.205.243.168, 140.82.113.6]
+
+2022-10-15T01:04:34.3717458+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:04:47.1646787+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:04:59.8597314+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:05:00.9044686+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.112.22, 140.82.114.22]
+
+2022-10-15T01:05:16.1705087+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:05:17.2622081+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.68.101]
+
+2022-10-15T01:05:20.0736388+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.56.91]
+
+2022-10-15T01:05:21.4884851+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.86, 20.123.141.233, 52.109.13.63]
+
+2022-10-15T01:05:26.0123682+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.79.207.82, 13.105.28.16, 13.105.28.18]
+
+2022-10-15T01:05:32.5378022+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:05:33.8159513+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.86, 20.190.163.21, 20.190.144.166]
+
+2022-10-15T01:05:36.1408783+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.86, 20.190.141.37, 40.126.13.8]
+
+2022-10-15T01:05:48.2821890+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:05:49.1919057+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.42.12, 13.107.43.12]
+
+2022-10-15T01:06:09.0224585+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:06:09.3612841+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.88.33]
+
+2022-10-15T01:06:17.6734167+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:06:18.3711911+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.3]
+
+2022-10-15T01:06:30.6970679+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:06:31.7737694+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.113.3, 140.82.121.3]
+
+2022-10-15T01:06:42.5065766+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:06:43.2187286+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241]
+
+2022-10-15T01:06:47.9937503+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:06:48.2042170+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:06:57.8297392+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:06:58.7418875+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.108.154, 185.199.109.154, 185.199.111.154]
+
+2022-10-15T01:07:00.0712921+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:07:06.9402708+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:07:09.6456315+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.109.153, 185.199.108.153, 185.199.110.153]
+
+2022-10-15T01:07:20.3130034+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.108.153, 185.199.109.153, 185.199.111.153]
+
+2022-10-15T01:07:20.8278231+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:07:31.6749195+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:07:31.6765211+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:07:31.6785628+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.108.153, 185.199.109.153, 185.199.111.153]
+
+2022-10-15T01:07:33.0483720+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.109.153, 185.199.108.153, 185.199.110.153]
+
+2022-10-15T01:07:43.6445719+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:07:44.7196462+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.16.94]
+
+2022-10-15T01:07:56.7115496+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:08:03.7956631+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:08:07.7478394+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.76.149]
+
+2022-10-15T01:08:10.4627637+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.86, 52.109.8.44]
+
+2022-10-15T01:08:15.1138225+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:08:16.1170637+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.112.21, 140.82.114.22]
+
+2022-10-15T01:08:19.4456357+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:08:21.5086316+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.113.26, 140.82.112.26]
+
+2022-10-15T01:08:25.6325573+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:08:26.7219341+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.194, 40.79.207.82, 40.90.133.99]
+
+2022-10-15T01:08:35.9332518+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:08:35.9644188+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+dev.ditu.live.com->127.0.0.1
+
+2022-10-15T01:08:36.2822994+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.64, 20.190.144.160, 20.190.163.18]
+
+2022-10-15T01:08:37.2120371+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://dev.ditu.live.com/REST/V1/MapControlConfiguration/native/3.220.2001.0 responded 200 in 1149.9297 ms
+
+2022-10-15T01:08:37.2268706+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://dev.ditu.live.com/REST/V1/MapControlConfiguration/native/3.220.2001.0 responded 200 in 1141.0607 ms
+
+2022-10-15T01:08:38.1520062+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.141.32, 40.126.35.64, 20.190.144.160]
+
+2022-10-15T01:08:40.3177817+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://dev.ditu.live.com/REST/v1/Imagery/Copyright/zh-hans-cn/48, responded 200 in 134.7781 ms
+
+2022-10-15T01:08:46.7013258+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:08:47.4897523+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dev.ditu.live.com:443->[202.89.233.71]
+
+2022-10-15T01:08:57.1238290+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.3, 140.82.121.4]
+
+2022-10-15T01:09:04.5301282+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:09:13.5132489+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:09:14.5495592+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.113.3, 140.82.121.4]
+
+2022-10-15T01:09:16.0573869+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:09:24.1907766+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:09:39.6677357+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:09:49.7078733+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:09:53.2376522+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:02.8636381+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:08.0012593+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:11.5073986+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:25.1299706+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:26.2012424+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.8.84]
+
+2022-10-15T01:10:28.9131625+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:29.8480125+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.46.16, 52.108.195.21]
+
+2022-10-15T01:10:44.3211450+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:45.4911660+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.114.21, 140.82.112.21]
+
+2022-10-15T01:10:51.0056729+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:10:53.0583071+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.113.26, 140.82.114.25]
+
+2022-10-15T01:10:57.1019001+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:11:09.4676508+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:11:10.5553128+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.197, 40.90.130.207, 40.90.130.194]
+
+2022-10-15T01:11:26.6850633+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:11:32.7988007+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:11:36.0618226+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.43.12, 13.107.42.12]
+
+2022-10-15T01:11:47.8046316+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:11:48.8610359+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241, 20.98.236.80]
+
+2022-10-15T01:11:54.6135422+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:11:57.2216091+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:12:10.5078968+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:12:12.4177546+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:12:20.2918978+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:12:20.4732867+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.108.154, 185.199.110.154]
+
+2022-10-15T01:12:21.9364798+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:12:27.7948806+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:12:30.4409206+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T01:12:33.7259913+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:12:36.1561839+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.52.82, 52.109.44.30, 52.109.124.155]
+
+2022-10-15T01:12:48.4324244+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:12:49.1300987+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:12:52.8680702+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:13:03.8483135+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:13:03.8500101+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T01:13:30.5905036+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:13:31.6120938+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.11, 52.108.195.21]
+
+2022-10-15T01:13:35.2127828+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.121.6, 140.82.113.6]
+
+2022-10-15T01:13:39.0879586+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.68.101]
+
+2022-10-15T01:13:45.8773450+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:13:46.8989569+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.113.22, 140.82.112.21]
+
+2022-10-15T01:13:55.5328670+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:13:56.5601544+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.26, 140.82.112.25, 140.82.114.26]
+
+2022-10-15T01:13:59.9469486+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.44, 52.109.8.86]
+
+2022-10-15T01:14:06.0706079+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T01:14:07.1270127+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.130.197, 40.90.130.207, 13.105.28.18]
+
+2022-10-15T01:14:10.6598137+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:14:13.8610217+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.64, 20.190.144.163, 40.126.35.151]
+
+2022-10-15T01:14:25.2868368+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:14:25.6220182+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.64, 20.190.144.164, 20.190.144.162]
+
+2022-10-15T01:14:29.8729583+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:14:38.2620110+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:14:54.1638964+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:14:55.2045323+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.98.236.80, 20.223.237.241]
+
+2022-10-15T01:15:03.7236345+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:15:16.2429406+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+raw.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:15:19.8020513+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:15:34.6039622+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:15:56.6398122+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:15:57.7784495+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.121.5, 140.82.121.6]
+
+2022-10-15T01:16:13.9094538+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:16:29.8883914+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:16:30.9790454+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.21, 52.108.195.11]
+
+2022-10-15T01:16:32.9653500+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:16:34.0008550+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.112.25, 140.82.114.26]
+
+2022-10-15T01:16:37.0661009+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:16:38.0934685+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.22, 140.82.112.21, 140.82.114.21]
+
+2022-10-15T01:16:40.5997378+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.52.82, 52.109.44.30]
+
+2022-10-15T01:16:45.7662493+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:16:46.8546734+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.16.94]
+
+2022-10-15T01:16:54.7732016+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:16:55.5032521+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.8.86, 52.109.13.64]
+
+2022-10-15T01:16:58.9449773+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[13.105.28.18, 40.90.133.99, 40.79.207.80]
+
+2022-10-15T01:17:00.0892334+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:17:01.1537881+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.19, 40.126.35.64, 20.190.144.164]
+
+2022-10-15T01:17:11.2361495+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:17:12.2948227+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.19, 40.126.35.64, 20.190.144.164]
+
+2022-10-15T01:17:24.0616088+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+g.live.com->127.0.0.1
+
+2022-10-15T01:17:24.8449677+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+HEAD https://g.live.com/odclientsettings/Prod responded 302 in 763.2765 ms
+
+2022-10-15T01:17:26.5880034+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://g.live.com/odclientsettings/Prod responded 302 in 196.136 ms
+
+2022-10-15T01:17:28.4479644+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:17:39.8110308+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 140.82.121.5, 140.82.112.6]
+
+2022-10-15T01:17:44.8769819+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:17:46.8649357+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T01:17:48.2481364+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.110.154, 185.199.108.154]
+
+2022-10-15T01:17:49.4751554+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T01:17:51.2211526+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:17:51.9274511+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.121.4, 140.82.121.3]
+
+2022-10-15T01:17:53.3650737+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.108.153]
+
+2022-10-15T01:17:55.9108360+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.109.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T01:17:55.9123469+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T01:18:02.8884954+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:02.8896792+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.108.133, 185.199.109.133, 185.199.111.133]
+
+2022-10-15T01:18:03.5284808+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.109.153, 185.199.108.153, 185.199.111.153]
+
+2022-10-15T01:18:04.2663727+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.108.153]
+
+2022-10-15T01:18:14.2070406+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:16.4054180+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.88.85]
+
+2022-10-15T01:18:17.6674080+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:28.0129286+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:32.1630438+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:33.2288456+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.133.99, 40.79.207.80, 40.90.130.197]
+
+2022-10-15T01:18:35.5407168+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:41.6170382+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:46.0212731+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:18:47.9823997+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:19:02.0210679+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:19:13.1955528+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:19:16.8533273+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.121.5]
+
+2022-10-15T01:19:19.2346749+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.98.236.80]
+
+2022-10-15T01:19:29.6292534+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:19:40.5495522+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+user-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:19:47.4476325+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:19:48.5832906+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.68.101]
+
+2022-10-15T01:19:59.6130409+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:20:00.6694667+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.195.21, 52.108.46.16]
+
+2022-10-15T01:20:07.9877606+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:20:09.0221433+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.113.22, 140.82.112.21]
+
+2022-10-15T01:20:21.0423884+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:20:22.1343120+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.114.25, 140.82.113.26]
+
+2022-10-15T01:20:33.1067013+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:20:34.1561466+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.68.99]
+
+2022-10-15T01:20:39.5461166+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.8.86, 52.109.77.2]
+
+2022-10-15T01:20:42.3378489+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:20:43.3925849+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.0, 40.90.133.99, 40.79.207.80]
+
+2022-10-15T01:20:54.8329874+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:20:55.8859711+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.20, 40.126.35.128, 20.190.163.19]
+
+2022-10-15T01:21:08.1201015+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:21:09.3423236+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.20, 40.126.35.128, 20.190.144.161]
+
+2022-10-15T01:21:12.9673520+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:21:19.9076285+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:21:33.2501747+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:21:39.3241071+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:21:47.0635974+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:21:48.1351805+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.4, 140.82.114.3]
+
+2022-10-15T01:21:50.3677112+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:22:02.3913971+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:22:03.4586678+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.4.18]
+
+2022-10-15T01:22:18.1175927+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:22:19.1727269+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.112.6]
+
+2022-10-15T01:22:42.8198569+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:22:49.2151460+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:22:53.6489553+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.114.21, 140.82.113.22]
+
+2022-10-15T01:23:01.8308363+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:06.2533418+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.26, 140.82.113.26, 140.82.114.25]
+
+2022-10-15T01:23:07.8243173+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.8.86, 52.109.77.2]
+
+2022-10-15T01:23:18.1265702+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:22.1287737+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.52.82, 52.109.68.59]
+
+2022-10-15T01:23:25.3529601+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[40.90.133.102, 20.135.6.0, 40.90.130.197]
+
+2022-10-15T01:23:27.9185498+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.19, 20.190.163.20, 40.126.35.128]
+
+2022-10-15T01:23:31.4161505+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:31.7645078+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.19, 20.190.163.20, 40.126.35.128]
+
+2022-10-15T01:23:35.8522697+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:39.9917473+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:44.3208986+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:47.1280799+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:48.1972086+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.98.236.80, 20.223.237.241]
+
+2022-10-15T01:23:51.7683283+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+mrodevicemgr.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:23:52.7836039+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.88.33]
+
+2022-10-15T01:23:53.7047097+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:23:53.9235628+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.108.154, 185.199.109.154]
+
+2022-10-15T01:23:54.6998362+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:24:05.7632285+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:24:15.8675430+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:24:17.5702929+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T01:24:17.7696327+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.111.153, 185.199.108.153, 185.199.109.153]
+
+2022-10-15T01:24:28.1834393+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:24:28.1850475+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:24:30.3075696+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.109.133, 185.199.110.133, 185.199.108.133]
+
+2022-10-15T01:24:30.9796434+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.111.153, 185.199.108.153, 185.199.109.153]
+
+2022-10-15T01:24:31.6125660+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.111.153, 185.199.110.153, 185.199.109.153]
+
+2022-10-15T01:24:33.9810165+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:24:39.2699414+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:24:40.0049381+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.195.11, 52.108.46.16, 52.108.80.18]
+
+2022-10-15T01:24:49.8669988+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:00.3714644+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:12.9051878+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:13.9329800+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.113.21, 140.82.113.22]
+
+2022-10-15T01:25:18.4240898+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:26.1849612+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:26.9101298+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.8.45, 52.109.8.86]
+
+2022-10-15T01:25:31.8246651+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:41.1940061+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:55.6044248+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:25:59.5276525+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.19, 40.126.35.128, 20.190.163.20]
+
+2022-10-15T01:26:12.4976754+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:26:29.4043857+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:26:32.5733713+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+mrodevicemgr.officeapps.live.com:443->[52.109.120.44, 52.109.124.63, 52.109.2.61]
+
+2022-10-15T01:26:37.1322471+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:26:44.9719262+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:26:55.8763390+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:26:56.9293030+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.27.177.113, 20.205.243.166, 140.82.121.3]
+
+2022-10-15T01:27:09.1786381+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:27:10.2552063+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.11, 52.108.80.18]
+
+2022-10-15T01:27:18.0090500+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:27:19.1005207+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.121.4, 140.82.114.3]
+
+2022-10-15T01:27:25.4725716+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:27:26.4815507+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.114.6]
+
+2022-10-15T01:27:37.8014377+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:27:49.5796238+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+desktop.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:27:53.7237145+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+repository-images.githubusercontent.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:28:05.8143389+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:28:16.9412340+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:28:22.3020412+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:28:35.5280509+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:28:36.5508795+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.52.82, 52.109.124.155, 52.109.44.30]
+
+2022-10-15T01:28:39.9210413+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.21, 140.82.113.22, 140.82.114.22]
+
+2022-10-15T01:28:42.9286770+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:28:44.0121739+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.25, 140.82.113.25, 140.82.112.26]
+
+2022-10-15T01:28:50.2559666+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.68.101, 52.109.76.74]
+
+2022-10-15T01:28:56.7539046+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:28:57.8114484+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.44, 52.109.8.86, 52.109.8.45]
+
+2022-10-15T01:29:08.5958032+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:29:09.6738192+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 20.135.6.0, 40.90.133.102]
+
+2022-10-15T01:29:21.9625708+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:29:26.0082071+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.19, 20.190.144.161, 20.190.163.20]
+
+2022-10-15T01:29:32.4427428+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:29:32.7904540+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.19, 40.126.35.128, 20.190.144.161]
+
+2022-10-15T01:29:49.4806115+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:29:55.8103622+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:30:09.4897827+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bn1303.storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:30:15.8530134+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:30:22.9177337+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:30:28.4363552+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:30:30.3546937+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.111.154, 185.199.109.154, 185.199.110.154]
+
+2022-10-15T01:30:31.2564896+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:30:36.8267835+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:30:42.4075708+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:30:48.0088852+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+api.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:30:48.9251519+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 20.27.177.116, 140.82.114.6]
+
+2022-10-15T01:31:01.0697278+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:31:01.2787161+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:80->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T01:31:04.5140924+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+desktop.github.com:443->[185.199.109.153, 185.199.111.153, 185.199.108.153]
+
+2022-10-15T01:31:05.9469445+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+repository-images.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:31:06.6051649+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+user-images.githubusercontent.com:443->[185.199.110.133, 185.199.109.133, 185.199.108.133]
+
+2022-10-15T01:31:17.4131137+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:31:17.5379197+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+git-for-windows.github.io:443->[185.199.109.153, 185.199.111.153, 185.199.108.153]
+
+2022-10-15T01:31:32.5894052+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:31:32.5910106+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msysgit.github.io:80->[185.199.110.153, 185.199.109.153, 185.199.108.153]
+
+2022-10-15T01:31:39.7062665+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:31:40.3903695+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.27.177.113, 20.205.243.166, 140.82.121.4]
+
+2022-10-15T01:31:43.6724300+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.21, 140.82.113.21, 140.82.114.21]
+
+2022-10-15T01:31:51.7734714+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:02.6709574+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+odc.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:03.7155822+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.44.30, 52.109.52.82]
+
+2022-10-15T01:32:06.8498701+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:07.8269328+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.76.74, 52.109.6.26]
+
+2022-10-15T01:32:12.0859845+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+nexusrules.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:15.7749303+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+storage.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:21.2471524+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:22.3005554+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.163.19, 20.190.144.161, 40.126.35.64]
+
+2022-10-15T01:32:25.7565591+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:26.7787029+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[20.190.163.19, 20.190.144.161, 40.126.35.64]
+
+2022-10-15T01:32:34.5210490+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:54.1864412+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:32:55.2128168+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:22->[20.205.243.166, 140.82.121.4, 140.82.112.3]
+
+2022-10-15T01:32:58.3926130+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.27.177.116, 20.205.243.168, 192.30.255.116]
+
+2022-10-15T01:33:03.5494067+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:33:04.3017235+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241]
+
+2022-10-15T01:33:14.7414754+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+roaming.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:33:15.7365169+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+roaming.officeapps.live.com:443->[52.109.124.115, 52.109.56.83, 52.109.16.111]
+
+2022-10-15T01:33:20.6517526+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.githubassets.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:33:28.1818699+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:33:29.2581363+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 20.27.177.113, 140.82.112.3]
+
+2022-10-15T01:33:41.5440414+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+waconatm.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:33:42.6489438+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+waconatm.officeapps.live.com:443->[52.108.46.16, 52.108.195.11, 52.108.248.98]
+
+2022-10-15T01:33:53.5717503+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:34:09.4167271+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+git-for-windows.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:34:22.3235002+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+msysgit.github.io@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:34:32.9885076+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:34:34.0012946+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.22, 140.82.112.21, 140.82.113.21]
+
+2022-10-15T01:34:37.7719551+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+odc.officeapps.live.com:443->[52.109.124.155, 52.109.52.82, 52.109.44.30]
+
+2022-10-15T01:34:49.4503175+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+ocws.officeapps.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:34:50.5561329+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+ocws.officeapps.live.com:443->[52.109.124.112, 52.109.56.86, 52.109.76.74]
+
+2022-10-15T01:34:53.7591741+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.26, 140.82.112.26, 140.82.112.25]
+
+2022-10-15T01:34:57.3864679+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.45, 52.109.13.64, 52.109.8.86]
+
+2022-10-15T01:35:00.8730527+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+storage.live.com:443->[20.135.6.5, 20.135.6.0, 40.79.207.82]
+
+2022-10-15T01:35:02.5276351+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.microsoftonline.com@119.29.29.29:53->Unexpected end of stream
+
+2022-10-15T01:35:02.8771128+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.microsoftonline.com:443->[40.126.35.64, 40.126.16.165, 40.126.16.166]
+
+2022-10-15T01:35:09.1769964+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:35:09.5269808+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.64, 40.126.16.165, 40.126.35.87]
+
+2022-10-15T01:35:15.5146806+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+dev.ditu.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:35:20.1286006+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+bingciservice.koreasouth.cloudapp.azure.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:35:26.8365753+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+bn1303.storage.live.com:443->[13.107.42.12, 13.107.43.12]
+
+2022-10-15T01:35:34.7446296+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+g.live.com@119.29.29.29:53->Invalid response received with code ServerFailure
+
+2022-10-15T01:35:43.5109891+08:00 [INF]
+FastGithub.AppHostedService
+正在主动关闭，因为父进程已退出
+
